@@ -1,0 +1,3 @@
+RusPro AI Perfect v1.2 is a source project.
+Open in Android Studio with Android SDK installed.
+If Gradle wrapper is not present, Android Studio can import the Gradle project using the installed Gradle tooling.

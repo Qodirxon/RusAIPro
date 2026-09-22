@@ -1,0 +1,25 @@
+{
+  "version": "2.0.1 FINAL POLISH",
+  "status": "stability/performance/design/device-compatibility pass",
+  "large_features_added": false,
+  "missions": 520,
+  "domains": 10,
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "optimizations": [
+    "Compose list keys and rememberSaveable",
+    "responsive LazyRow filters",
+    "scroll-safe mission UI",
+    "release minification and resource shrinking",
+    "packaging exclusions",
+    "resizable activity",
+    "no INTERNET permission",
+    "microphone requested only for voice mode"
+  ],
+  "apk_built_here": false
+}
